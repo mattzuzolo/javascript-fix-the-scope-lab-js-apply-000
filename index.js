@@ -9,7 +9,7 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   
-  //
+  //declare a new variable "animal" within this function
   var animal = 'cat';
   return animal
 }
