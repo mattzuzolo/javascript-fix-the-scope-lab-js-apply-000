@@ -15,6 +15,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  
+  //declare variable "two" before returning it
   const two = 2;
   return n + two
 
